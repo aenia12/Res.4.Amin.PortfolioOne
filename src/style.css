@@ -43,6 +43,7 @@ p {
   font-size: 96px;
   font-weight: 700;
   line-height: 127px;
+  color: black;
 }
 
 .homepage-heading h2 {
@@ -87,6 +88,7 @@ p {
   font-weight: 700;
   font-size: 64px;
   line-height: 85px;
+  color: black;
 }
 
 .travel-description p {
