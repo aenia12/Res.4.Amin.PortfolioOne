@@ -65,6 +65,12 @@ p {
   padding: 120px 60px;
 }
 
+.travel-description h2 {
+  font-family: var(--heading-font-family);
+  font-weight: 700;
+  font-size: 64px;
+}
+
 @media (max-width: 900px) {
   h2 {
     font-size: 44px;
