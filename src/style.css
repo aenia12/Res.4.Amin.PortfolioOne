@@ -33,7 +33,7 @@ p {
 }
 
 nav {
-  padding: 20px 0;
+  padding: 20px 110px;
 }
 
 nav li {
@@ -41,6 +41,12 @@ nav li {
   list-style: none;
   line-height: 42px;
   margin-left: 15px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #272142;
+  transition: all 100ms ease-in-out;
 }
 
 .homepage-heading {
