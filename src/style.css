@@ -32,6 +32,17 @@ p {
   color: #272142;
 }
 
+nav {
+  padding: 20px 0;
+}
+
+nav li {
+  display: inline;
+  list-style: none;
+  line-height: 42px;
+  margin-left: 15px;
+}
+
 .homepage-heading {
   background: var(--secondary-color);
   text-align: center;
