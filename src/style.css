@@ -162,7 +162,7 @@ footer .social-links a {
   padding: 60px 20px;
 }
 
-.about-page h1 {
+.content h1 {
   font-family: var(--heading-font-family);
   font-weight: 700;
   font-size: 64px;
@@ -178,23 +178,7 @@ footer .social-links a {
   color: #272142;
 }
 
-.about-page p {
-  font-family: var(--default-font-family);
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 30px;
-  color: #272142;
-}
-
-.work-page h1 {
-  font-family: var(--heading-font-family);
-  font-weight: 700;
-  font-size: 64px;
-  line-height: 85px;
-  color: black;
-}
-
-.work-page h3 {
+.content h3 {
   font-family: var(--default-font-family);
   font-weight: 700;
   font-size: 24px;
@@ -202,11 +186,20 @@ footer .social-links a {
   text-align: center;
 }
 
+.content p {
+  font-family: var(--default-font-family);
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: #272142;
+}
+
 .work-page p {
   font-family: var(--default-font-family);
   font-weight: 400;
   font-size: 14px;
   line-height: 21px;
+  color: #272142;
   text-align: center;
 }
 
