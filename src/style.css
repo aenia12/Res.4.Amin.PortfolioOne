@@ -186,6 +186,30 @@ footer .social-links a {
   color: #272142;
 }
 
+.work-page h1 {
+  font-family: var(--heading-font-family);
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 85px;
+  color: black;
+}
+
+.work-page h3 {
+  font-family: var(--default-font-family);
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: center;
+}
+
+.work-page p {
+  font-family: var(--default-font-family);
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 21px;
+  text-align: center;
+}
+
 .logo {
   max-height: 40px;
 }
