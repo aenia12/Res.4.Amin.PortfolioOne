@@ -55,7 +55,8 @@ nav a {
 }
 
 nav a:hover,
-nav li:active a {
+nav li:active a,
+footer .email-link:hover {
   color: var(--branding-color);
 }
 
