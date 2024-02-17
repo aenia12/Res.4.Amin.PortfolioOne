@@ -56,7 +56,8 @@ nav a {
 
 nav a:hover,
 nav li:active a,
-footer .email-link:hover {
+footer .email-link:hover,
+.contact-info:hover {
   color: var(--branding-color);
 }
 
@@ -216,6 +217,11 @@ footer .social-links a {
 
 .logo {
   max-height: 40px;
+}
+
+.contact-info {
+  text-decoration: none;
+  color: #272142;
 }
 
 @media (max-width: 900px) {
